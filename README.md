@@ -5,7 +5,7 @@ Eu me chamo **Manuela** e atualmente estou estudando ✨ _informática_ ✨!
 
 No futuro pretendo me formar em Banco de dados 💖🥰
 
-- Tenho conhecimentos em :
+- Tenho conhecimentos em 📚🧠:
 
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -29,7 +29,7 @@ No futuro pretendo me formar em Banco de dados 💖🥰
 
  **Entre outros...**
 
-- Costumo passar meu tempo livre em apps/sites como :
+- Costumo passar meu tempo livre em apps/sites como 🎨🎮:
   
 ![](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) 
 ![](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)
@@ -44,7 +44,7 @@ No futuro pretendo me formar em Banco de dados 💖🥰
 
 ![]()
 
-- Minhas Redes Sociais são :
+- Minhas Redes Sociais são 📧📭:
 
 ![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -54,7 +54,7 @@ No futuro pretendo me formar em Banco de dados 💖🥰
 ![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 
-- Apps que uso para programação :
+- Apps que uso para programação💻⌨️ :
   
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
